@@ -8,33 +8,41 @@
   <link rel="icon" href="/favicon.ico">
 
   <title>
-    Categories - GeauxWeisbeck4.dev
+     - GeauxWeisbeck4.dev
   </title>
 
-  <meta name="description" content="Andrew Weisbeck&#39;s digital garden for sharing knowledge about software development, philosophy, and everything in between." /><meta name="generator" content="Hugo 0.123.7">
+  <meta name="description" content="" /><meta name="generator" content="Hugo 0.123.7">
 
   <link rel="stylesheet" href="http://localhost:1313/css/main.css" />
 
   
   
 
-  <meta property="og:title" content="Categories" />
-<meta property="og:description" content="Andrew Weisbeck&#39;s digital garden for sharing knowledge about software development, philosophy, and everything in between." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/categories/" /><meta property="og:image" content="http://localhost:1313/digital_office.png" />
+  <meta property="og:title" content="" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/articles/about-andrew/" /><meta property="og:image" content="http://localhost:1313/digital_office.png" /><meta property="article:section" content="articles" />
+
+
 
 
 
   <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/digital_office.png" /><meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content="Andrew Weisbeck&#39;s digital garden for sharing knowledge about software development, philosophy, and everything in between."/>
+<meta name="twitter:image" content="http://localhost:1313/digital_office.png" /><meta name="twitter:title" content=""/>
+<meta name="twitter:description" content=""/>
 
 
-  <meta itemprop="name" content="Categories">
-<meta itemprop="description" content="Andrew Weisbeck&#39;s digital garden for sharing knowledge about software development, philosophy, and everything in between.">
+  <meta itemprop="name" content="">
+<meta itemprop="description" content="">
 
-  <meta itemprop="name" content="Categories">
-<meta itemprop="description" content="Andrew Weisbeck&#39;s digital garden for sharing knowledge about software development, philosophy, and everything in between.">
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="http://localhost:1313/digital_office.png" />
+<meta itemprop="keywords" content="" />
+
+  <meta itemprop="name" content="">
+<meta itemprop="description" content="">
+
+<meta itemprop="wordCount" content="0"><meta itemprop="image" content="http://localhost:1313/digital_office.png" />
+<meta itemprop="keywords" content="" />
 </head>
 <body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:basis-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0">
@@ -477,6 +485,78 @@
   <line x1="4" y1="12" x2="20" y2="12" />
   <line x1="4" y1="18" x2="16" y2="18" />
 </svg></button>
+
+
+
+
+
+
+<div class="flex flex-1 h-screen relative w-full min-w-0">
+
+  <section
+    class="will-change-transform transform transition-transform -translate-x-[200%] absolute top-0 left-0 lg:relative
+  lg:translate-x-0 lg:basis-[400px] h-full bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 lg:flex flex-col py-3 overflow-y-auto scroll-area flex-shrink-0">
+    
+    
+    <a href="http://localhost:1313/articles/">
+      <h2 class="font-bold mb-5 py-1 pl-12 pr-3 md:px-3">Articles</h2>
+    </a>
+<label class="mb-2 block px-2">
+  <span></span>
+  <input type="text" placeholder="Search articles" class="searchInput bg-white rounded px-2 py-1 w-full border" />
+</label>
+<script>
+  const searchElt = document.querySelector('.searchInput')
+  if (searchElt) {
+    searchElt.addEventListener('input', evt => {
+      const value = evt.target.value || '';
+
+      const articles = document.querySelectorAll('.article')
+      if (!value) {
+        articles.forEach(article => article.classList.remove('hidden'))
+      } else {
+        articles.forEach(article => article.classList.add('hidden'))
+        Array.from(articles).filter(article => {
+          const title = article.querySelector('h3')
+          if (!title) return false;
+
+          return title.textContent.toLowerCase().includes(value.toLowerCase())
+        }).forEach(article => article.classList.remove('hidden'))
+      }
+    })
+  }
+</script>
+<div class="space-y-2.5">
+      
+      <a class="article block px-3 py-4  bg-slate-900 dark:bg-slate-700 text-slate-50 "
+        href="/articles/about-andrew/">
+        
+        
+        <h3 class="text-lg font-semibold mb-0.5"></h3>
+        <div
+          class="text-sm  text-slate-400  line-clamp-2">
+          
+        </div>
+      </a>
+      </div>
+    </section>
+
+  <div class="overflow-y-auto h-screen w-full">
+    <article class="px-6 py-20 w-full mx-auto prose lg:prose-lg h-fit dark:prose-invert prose-img:mx-auto">
+
+      
+      <h1 class="!mb-2"></h1>
+
+	  
+
+      
+
+      
+    </article>
+  </div>
+
+</div>
+
 
   
 <script type="text/javascript" src="/main.js" defer></script>

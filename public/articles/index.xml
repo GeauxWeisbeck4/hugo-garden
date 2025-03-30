@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on GeauxWeisbeck4.dev</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on GeauxWeisbeck4.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. About WeisMind</title>
+      <link>http://localhost:1313/articles/1_about-weismind/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/1_about-weismind/</guid>
+      <description>Welcome to the temporary home of WeisMind, a rad studio that creates content that sharpens your mind so you have the only weapon you&amp;rsquo;ll ever need to defeat fear, fight ignorance, and discover truth, love, and happiness.&#xA;It is likely that you were directed here via the WeisMind Newsletter - yes, you are on the correct page to learn about WeisMind. I&amp;rsquo;ve got a lot going on right now since I just launched WeisMind, on top of trying to find full-time employment as a full-stack developer, creating a lot of other content, and trying to get out of my current situation that I am in.</description>
+    </item>
+  </channel>
+</rss>

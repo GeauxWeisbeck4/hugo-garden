@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on GeauxWeisbeck4.dev</title>
+    <link>http://localhost:1313/stories/</link>
+    <description>Recent content in Stories on GeauxWeisbeck4.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Diogenes and the Cynics</title>
+      <link>http://localhost:1313/stories/diogenes-and-the-cynics/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stories/diogenes-and-the-cynics/</guid>
+      <description>&amp;ldquo;I am Alexander the Great - what is it that you want?&amp;rdquo;, asked one of the great conquerers in human history. &amp;ldquo;To stand out of the sun a bit&amp;rdquo;, replied Diogenes, one of the founders of the cynic philosophy.&#xA;Alexander the Great was so impressed by the homeless philosopher&amp;rsquo;s disdain for him that when he was walking with his soldiers (who were laughing and commenting on how absurd they found the man laying in the barrell), he made the legendary remark, &amp;ldquo;For if I weren&amp;rsquo;t Alexander the Great, I would be Diogenes.</description>
+    </item>
+  </channel>
+</rss>
