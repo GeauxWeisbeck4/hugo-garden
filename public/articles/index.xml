@@ -6,14 +6,21 @@
     <description>Recent content in Articles on GeauxWeisbeck4.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. About WeisMind</title>
-      <link>http://localhost:1313/articles/1_about-weismind/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/1_about-weismind/</guid>
-      <description>Welcome to the temporary home of WeisMind, a rad studio that creates content that sharpens your mind so you have the only weapon you&amp;rsquo;ll ever need to defeat fear, fight ignorance, and discover truth, love, and happiness.&#xA;It is likely that you were directed here via the WeisMind Newsletter - yes, you are on the correct page to learn about WeisMind. I&amp;rsquo;ve got a lot going on right now since I just launched WeisMind, on top of trying to find full-time employment as a full-stack developer, creating a lot of other content, and trying to get out of my current situation that I am in.</description>
+      <title>About WeisMind</title>
+      <link>http://localhost:1313/articles/about-weismind/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/about-weismind/</guid>
+      <description>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&#xA;WeisMind Creative It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

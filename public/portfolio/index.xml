@@ -16,18 +16,18 @@
       <description>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to Varun for sharing this open source project.&#xA;I am using the Hugo Digital Garden Theme theme created by Varun A P, a very talented front-end engineer.</description>
     </item>
     <item>
+      <title>SupaSnake.js</title>
+      <link>http://localhost:1313/portfolio/supasnake-js/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
+      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!</description>
+    </item>
+    <item>
       <title>Tar Heel Dev Studio</title>
       <link>http://localhost:1313/portfolio/tar-heel-dev-studio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/tar-heel-dev-studio/</guid>
-      <description>I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Freelance Studio for Small Businesses, Entrepreneurs, and Non-Profits I didn&amp;rsquo;t anticipate the developer job market to go through tough times like it did, so I was kind of forced to figure a way out to get by while learning how to be a better programmer - well, it&amp;rsquo;s a never ending journey, but what I mean is that I stepped right into the fire when it came to working on my first real project that made me money.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/portfolio/supasnake-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
-      <description></description>
+      <description>Tar Heel Dev Studio Website I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Tech Stack Astro.js Static Site Generator Tailwind CSS Typescript Project Status This project is my main source of income so it is always a work in progress.</description>
     </item>
   </channel>
 </rss>

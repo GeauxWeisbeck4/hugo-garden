@@ -6,8 +6,15 @@
     <description>Recent content in Homepage on GeauxWeisbeck4.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Garden Work Flow</title>
+      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
+      <description>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&#xA;Geaux Flow First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code).</description>
+    </item>
     <item>
       <title>Andrew&#39;s Digital Garden</title>
       <link>http://localhost:1313/portfolio/andrews-digital-garden/</link>
@@ -16,32 +23,32 @@
       <description>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to Varun for sharing this open source project.&#xA;I am using the Hugo Digital Garden Theme theme created by Varun A P, a very talented front-end engineer.</description>
     </item>
     <item>
-      <title>2. Diogenes and the Cynics</title>
+      <title>Diogenes and the Cynics</title>
       <link>http://localhost:1313/stories/diogenes-and-the-cynics/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/stories/diogenes-and-the-cynics/</guid>
       <description>&amp;ldquo;I am Alexander the Great - what is it that you want?&amp;rdquo;, asked one of the great conquerers in human history. &amp;ldquo;To stand out of the sun a bit&amp;rdquo;, replied Diogenes, one of the founders of the cynic philosophy.&#xA;Alexander the Great was so impressed by the homeless philosopher&amp;rsquo;s disdain for him that when he was walking with his soldiers (who were laughing and commenting on how absurd they found the man laying in the barrell), he made the legendary remark, &amp;ldquo;For if I weren&amp;rsquo;t Alexander the Great, I would be Diogenes.</description>
     </item>
     <item>
-      <title>1. About WeisMind</title>
-      <link>http://localhost:1313/articles/1_about-weismind/</link>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/1_about-weismind/</guid>
-      <description>Welcome to the temporary home of WeisMind, a rad studio that creates content that sharpens your mind so you have the only weapon you&amp;rsquo;ll ever need to defeat fear, fight ignorance, and discover truth, love, and happiness.&#xA;It is likely that you were directed here via the WeisMind Newsletter - yes, you are on the correct page to learn about WeisMind. I&amp;rsquo;ve got a lot going on right now since I just launched WeisMind, on top of trying to find full-time employment as a full-stack developer, creating a lot of other content, and trying to get out of my current situation that I am in.</description>
+      <title>About WeisMind</title>
+      <link>http://localhost:1313/articles/about-weismind/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/about-weismind/</guid>
+      <description>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&#xA;WeisMind Creative It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast.</description>
+    </item>
+    <item>
+      <title>SupaSnake.js</title>
+      <link>http://localhost:1313/portfolio/supasnake-js/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
+      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&#xA;Tech Stack Next.js Supabase Tailwind CSS Typescript Project Status (Maintaining) I am maintaining this project by making sure it continues to work.</description>
     </item>
     <item>
       <title>Tar Heel Dev Studio</title>
       <link>http://localhost:1313/portfolio/tar-heel-dev-studio/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/tar-heel-dev-studio/</guid>
-      <description>I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Freelance Studio for Small Businesses, Entrepreneurs, and Non-Profits I didn&amp;rsquo;t anticipate the developer job market to go through tough times like it did, so I was kind of forced to figure a way out to get by while learning how to be a better programmer - well, it&amp;rsquo;s a never ending journey, but what I mean is that I stepped right into the fire when it came to working on my first real project that made me money.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/portfolio/supasnake-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
-      <description></description>
+      <description>Tar Heel Dev Studio Website I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Tech Stack Astro.js Static Site Generator Tailwind CSS Typescript Project Status This project is my main source of income so it is always a work in progress.</description>
     </item>
   </channel>
 </rss>
