@@ -6,21 +6,21 @@
     <description>Recent content in Articles on GeauxWeisbeck4.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Garden Work Flow</title>
+      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
+      <description>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&#xA;Geaux Flow First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code).</description>
+    </item>
     <item>
       <title>About WeisMind</title>
       <link>http://localhost:1313/articles/about-weismind/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/about-weismind/</guid>
       <description>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&#xA;WeisMind Creative It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

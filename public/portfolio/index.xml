@@ -20,7 +20,7 @@
       <link>http://localhost:1313/portfolio/supasnake-js/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
-      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!</description>
+      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&#xA;Tech Stack Next.js Supabase Tailwind CSS Typescript Project Status (Maintaining) I am maintaining this project by making sure it continues to work.</description>
     </item>
     <item>
       <title>Tar Heel Dev Studio</title>

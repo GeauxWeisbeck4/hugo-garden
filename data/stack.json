@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Logseq",
+        "description": "A powerful note taking and knowledge management tool. Great for developers.",
+        "link": "https://logseq.com",
+        "icon": "https://avatars.githubusercontent.com/u/63385289?s=280&v=4",
+        "tag": "Productivity"
+    },
+    {
+        "name": "Obsidian",
+        "description": "Another powerful note taking and knowledge management tool that works great with Logseq. An integral part of my workflow.",
+        "link": "https://obsidian.md",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg",
+        "tag": "Productivity"
+    },
+    {
+        "name": "Cursor IDE",
+        "description": "An AI powered integrated development environment that makes chatting with your codebase a necessary part of your workflow.",
+        "link": "https://www.cursor.com/en",
+        "icon": "https://avatars.githubusercontent.com/u/126759922?s=200&v=4",
+        "tag": "Programming"
+    },
+    {
+        "name": "Hugo",
+        "description": "One of the fastest static site generators, simple to use, and a great community! Built with Go.",
+        "link": "https://gohugo.io/",
+        "icon": "https://avatars.githubusercontent.com/u/29385237?s=200&v=4",
+        "tag": "Programming"
+    },
+    {
+        "name": "Tailwind CSS",
+        "description": "A utility-first CSS framework that lets you add CSS without ever leaving your HTML and makes rapid prototyping simple and fun.",
+        "link": "https://tailwindcss.com",
+        "icon": "https://avatars.githubusercontent.com/u/67109815?s=200&v=4",
+        "tag": "Programming"
+    },
+    {
+        "name": "Penpot",
+        "description": "An open-source collaborative design tool that is a great, free alternate to Figma",
+        "link": "https://penpot.app",
+        "icon": "https://avatars.githubusercontent.com/u/30179644?s=200&v=4",
+        "tag": "Design"
+    },
+    {
+        "name": "Typescript",
+        "description": "A superset of JavaScript that compiles to clean JavaScript output.",
+        "link": "https://typescriptlang.org",
+        "icon": "https://www.typescriptlang.org/images/branding/logo-grouping.svg",
+        "tag": "Programming"
+    }
+]

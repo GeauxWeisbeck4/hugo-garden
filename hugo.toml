@@ -30,57 +30,53 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/articles'
   weight = 3
 [[menu.main]]
-  name = 'Stories'
-  url = '/stories'
-  weight = 4
-[[menu.main]]
   name = 'Note Catalog'
-  url = '/notes'
-  weight = 5
+  url = '/note-catalog'
+  weight = 4
 [[menu.main]]
   name = 'Portfolio'
   url = '/portfolio'
-  weight = 6
+  weight = 5
 [[menu.main]]
   name = 'Stack'
   url = '/stack'
-  weight = 7
+  weight = 6
 [[menu.main]]
   name = 'Support'
   url = '/support'
-  weight = 8
+  weight = 7
 [[menu.main]]
   name = 'Links'
   params.header = true
-  weight = 9
+  weight = 8
 [[menu.main]]
   name = 'Tar Heel Dev Studio'
   url = 'https://tarheeldevstudio.com'
-  weight = 10
+  weight = 9
 [[menu.main]]
   name = 'My Portfolio/Resume Site'
   url = 'https://andrewweisbeck.com'
-  weight = 11
+  weight = 10
 [[menu.main]]
   name = 'GeauxCode.dev'
   url = 'https://geauxcode.dev'
-  weight = 12
+  weight = 11
 [[menu.main]]
   name = 'Medium Blog'
   url = 'https://geauxweisbeck4.medium.com/'
-  weight = 13
+  weight = 12
 [[menu.main]]
   name = 'Dev.to Blog'
   url = 'https://dev.to/geauxweisbeck4'
-  weight = 14
+  weight = 13
 [[menu.main]]
   name = 'Ko-Fi'
   url = 'https://ko-fi.com/geauxweisbeck4'
-  weight = 15
+  weight = 14
 [[menu.main]]
   name = 'Patreon'
   url = 'https://patreon.com/geauxweisbeck4'
-  weight = 16
+  weight = 15
 
 [[menu.social]]
   name = 'GithHub'

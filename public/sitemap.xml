@@ -2,26 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/andrews-digital-garden/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/support/creator-platforms/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/support/direct-donation/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/support/publications/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/support/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/support/support-andrew/</loc>
+    <lastmod>2025-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/note-catalog/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/note-catalog/sorting-algorithms/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/note-catalog/computer-science/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/digital-garden-work-flow/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/andrews-digital-garden/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/diogenes-and-the-cynics/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stories/</loc>
-    <lastmod>2025-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/1_about-weismind/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2025-03-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/articles/about-weismind/</loc>
+    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/supasnake-js/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
@@ -30,6 +51,8 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stack/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
