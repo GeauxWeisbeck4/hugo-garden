@@ -1,33 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portfolio on GeauxWeisbeck4.dev</title>
-    <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Portfolio on GeauxWeisbeck4.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Andrew&#39;s Digital Garden</title>
-      <link>http://localhost:1313/portfolio/andrews-digital-garden/</link>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/andrews-digital-garden/</guid>
-      <description>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to Varun for sharing this open source project.&#xA;I am using the Hugo Digital Garden Theme theme created by Varun A P, a very talented front-end engineer.</description>
-    </item>
-    <item>
-      <title>SupaSnake.js</title>
-      <link>http://localhost:1313/portfolio/supasnake-js/</link>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
-      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&#xA;Tech Stack Next.js Supabase Tailwind CSS Typescript Project Status (Maintaining) I am maintaining this project by making sure it continues to work.</description>
-    </item>
-    <item>
-      <title>Tar Heel Dev Studio</title>
-      <link>http://localhost:1313/portfolio/tar-heel-dev-studio/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tar-heel-dev-studio/</guid>
-      <description>Tar Heel Dev Studio Website I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Tech Stack Astro.js Static Site Generator Tailwind CSS Typescript Project Status This project is my main source of income so it is always a work in progress.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolio on WeisGarden</title><link>https://weismind.com/portfolio/</link><description>Recent content in Portfolio on WeisGarden</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://weismind.com/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>WeisGear Outdoor Adventure Co.</title><link>https://weismind.com/portfolio/weisgear-outdoor-adventure-co/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/weisgear-outdoor-adventure-co/</guid><description>&lt;p>My latest project is the reason I started learning programming in the first place - well, the first shot that started the war I guess you could say because I think I was always destined to get into programming due to my love of computers and tech. But it all got started when I was sick of not being able to build my own tools, especially my own ecommerce store. Over four years later, I&amp;rsquo;m finally here and ready to implement my long-desired Shopify store.&lt;/p></description></item><item><title>Andrew's Digital Garden</title><link>https://weismind.com/portfolio/andrews-digital-garden/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/andrews-digital-garden/</guid><description>&lt;p>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to &lt;a href="https://github.com/apvarun" target="_blank" rel="noopener" >Varun&lt;/a> for sharing this open source project.&lt;/p>
+&lt;blockquote>
+&lt;p>I am using the &lt;a href="https://github.com/apvarun/digital-garden-hugo-theme/" target="_blank" rel="noopener" >Hugo Digital Garden Theme&lt;/a> theme created by &lt;a href="https://apvarun.com/" target="_blank" rel="noopener" >Varun A P&lt;/a>, a very talented front-end engineer. If you like this site and want to support him or find more of his work, check out his &lt;a href="https://buymeacoffee.com/apvarun" target="_blank" rel="noopener" >Buy My A Coffee Site here&lt;/a> where you can purchase his next cup of study juice, or whatever he uses your donations for.&lt;/p></description></item><item><title>SupaSnake.js</title><link>https://weismind.com/portfolio/supasnake-js/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/supasnake-js/</guid><description>&lt;p>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&lt;/p>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;ul>
+&lt;li>Next.js&lt;/li>
+&lt;li>Supabase&lt;/li>
+&lt;li>Tailwind CSS&lt;/li>
+&lt;li>Typescript&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status-maintaining">Project Status (Maintaining)&lt;/h2>
+&lt;p>I am maintaining this project by making sure it continues to work. There are a few features I am working on adding:&lt;/p></description></item><item><title>Tar Heel Dev Studio</title><link>https://weismind.com/portfolio/tar-heel-dev-studio/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/tar-heel-dev-studio/</guid><description>&lt;h1 id="tar-heel-dev-studio-website">&lt;a href="https://tarheeldevstudio.com" target="_blank" rel="noopener" >Tar Heel Dev Studio Website&lt;/a>&lt;/h1>
+&lt;p>I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&lt;/p>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;ul>
+&lt;li>Astro.js Static Site Generator&lt;/li>
+&lt;li>Tailwind CSS&lt;/li>
+&lt;li>Typescript&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status">Project Status&lt;/h2>
+&lt;p>This project is my main source of income so it is always a work in progress. Right now, I am trying to focus on finding full-time employment so I have slowed down on trying to find clients lately, but that could always change. I am always taking clients, so never hesitate to reach out to me if you are interested in hiring me.&lt;/p></description></item></channel></rss>

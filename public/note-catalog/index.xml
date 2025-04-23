@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Note Catalog on GeauxWeisbeck4.dev</title>
-    <link>http://localhost:1313/note-catalog/</link>
-    <description>Recent content in Note Catalog on GeauxWeisbeck4.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/note-catalog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sorting Algorithms</title>
-      <link>http://localhost:1313/note-catalog/sorting-algorithms/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note-catalog/sorting-algorithms/</guid>
-      <description>Sorting algorithms seem like a great place to get started writing about algorithms. They are easy enough to visualize, explain, and the code is engrained in my mind like the back of my own hand. This note is a work in progress, but will eventually contain all of the sorting algorithms known to man! Well, sort of&amp;hellip;&#xA;Bubble Sort First on the list is fun ol&amp;rsquo; bubble sort!</description>
-    </item>
-    <item>
-      <title>Computer Science</title>
-      <link>http://localhost:1313/note-catalog/computer-science/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note-catalog/computer-science/</guid>
-      <description>This note contains a roadmap for my learning path of computer science with brief, but important notes for each topic. Links to other notes are included if they require a longform explanation or deep dive worth your time.&#xA;Computer Science Roadmap </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Note Catalog on WeisGarden</title><link>https://weismind.com/note-catalog/</link><description>Recent content in Note Catalog on WeisGarden</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://weismind.com/note-catalog/index.xml" rel="self" type="application/rss+xml"/><item><title>Software Design</title><link>https://weismind.com/note-catalog/software-design/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/software-design/</guid><description>&lt;h1 id="software-design">Software Design&lt;/h1>
+&lt;p>Software design is endlessly fascinating and my favorite thing I&amp;rsquo;m learning right now. Here are my notes, many coming from The Essence of Software: Why Concepts Matter for Great Design, by Daniel Jackson.&lt;/p>
+&lt;h2 id="concepts">Concepts&lt;/h2>
+&lt;ul>
+&lt;li>A concept is a self-contained unit of functionality.
+&lt;ul>
+&lt;li>A reservation, upvote, or how you organize files in a folder.&lt;/li>
+&lt;li>Well designed and familiar concepts are easy to use, as long as they are represented faithfully in the user interface and programmed correctly.&lt;/li>
+&lt;li>Complex or clunky concepts are difficult to use, no matter how great algorithms are.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Sorting Algorithms</title><link>https://weismind.com/note-catalog/sorting-algorithms/</link><pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/sorting-algorithms/</guid><description>&lt;p>Sorting algorithms seem like a great place to get started writing about algorithms. They are easy enough to visualize, explain, and the code is engrained in my mind like the back of my own hand. This note is a work in progress, but will eventually contain all of the sorting algorithms known to man! Well, sort of&amp;hellip;&lt;/p>
+&lt;h2 id="bubble-sort">Bubble Sort&lt;/h2>
+&lt;p>First on the list is fun ol&amp;rsquo; bubble sort!&lt;/p></description></item><item><title>Computer Science</title><link>https://weismind.com/note-catalog/computer-science/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/computer-science/</guid><description>&lt;p>This note contains a roadmap for my learning path of computer science with brief, but important notes for each topic. Links to other notes are included if they require a long form explanation or deep dive worth your time.&lt;/p>
+&lt;h2 id="computer-science-roadmap">Computer Science Roadmap&lt;/h2>
+&lt;p>Here is a tenative roadmap for learning computer science that I am following and is bound to change from time to time:&lt;/p></description></item></channel></rss>

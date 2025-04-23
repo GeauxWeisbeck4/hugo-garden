@@ -9,5 +9,4 @@ This note contains a roadmap for my learning path of computer science with brief
 
 ## Computer Science Roadmap
 
-
-
+Here is a tenative roadmap for learning computer science that I am following and is bound to change from time to time:

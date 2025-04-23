@@ -2,11 +2,11 @@
 title: Homepage
 ---
 
-# Hey y'all, I'm Andrew 👋
+# Hey y'all! I'm Andrew, creator of WeisMind 👋
 
 ![Andrew's Digital Office](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1743095346/digital_office_uz0qja.png)
 
-## **Welcome to my digital garden! 🌲** 
+## **Welcome to WeisGarden! 🌲** 
 
 A digital garden is like a personal wiki and a knowledge database of thoughts and ideas. Similar to a traditional garden, a digital one will also container various kinds of content (plants), of which may even be unrelated to each other. Ideas are not refined, thoughts are not tailored. Here is an excellent write-up about the [history of digital gardens](https://maggieappleton.com/garden-history)
 

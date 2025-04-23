@@ -1,89 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Homepage on GeauxWeisbeck4.dev</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Homepage on GeauxWeisbeck4.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Support Andrew</title>
-      <link>http://localhost:1313/support/support-andrew/</link>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/support/support-andrew/</guid>
-      <description>Creating websites, content, and learning takes up an immense amount of time, but doing this kind of work makes me feel awesome and the challenge is a pretty good reward. However, being challenged and feeling awesome doesn&amp;rsquo;t pay a whole lot - it pays nothing in fact. Freelancing isn&amp;rsquo;t as lucrative as it once was since everyone is now a &amp;ldquo;vibe coder&amp;rdquo; and finding work as software developer is challenging at the moment.</description>
-    </item>
-    <item>
-      <title>Creator Platforms</title>
-      <link>http://localhost:1313/support/creator-platforms/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/support/creator-platforms/</guid>
-      <description>You can contriute on these particular creator platforms - I try my best to keep them up to date with content and projects I&amp;rsquo;m working on so you can find my work there if it is not on my digital garden here.&#xA;Ko-Fi - GeauxWeisbeck4 You can find creations, posts, and more on Ko-Fi. Subscribe or make a one time donation.&#xA;Buy Me A Coffee - GeauxWeisbeck4 Basically the same thing as Ko-Fi, except it&amp;rsquo;s competitor.</description>
-    </item>
-    <item>
-      <title>Direct Donation</title>
-      <link>http://localhost:1313/support/direct-donation/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/support/direct-donation/</guid>
-      <description>And the most simple and effective way to help is donating directly to Cash App and Venmo. I&amp;rsquo;m looking to add other ways to donate, but donating via these methods is the most helpful way to give. I say that because there is no fee that we get charged (platforms take like 5-10% sometimes) and it goes directly into our pocket so we can feed ourselves and save up for housing.</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/support/publications/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/support/publications/</guid>
-      <description>These are publications I create content on and they typically have ways you can sponsor me, subscribe to my content, or even sometimes just visiting and sharing these pages will help me earn money. If you can&amp;rsquo;t afford to help out with a subscription or donation, definitely sharing these with your network has a huge impact.&#xA;Substack - The WeisMind Newsletter &amp;amp; Geaux Code Newsletter These are both brand spanking new newsletters that are just about to drop.</description>
-    </item>
-    <item>
-      <title>Sorting Algorithms</title>
-      <link>http://localhost:1313/note-catalog/sorting-algorithms/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note-catalog/sorting-algorithms/</guid>
-      <description>Sorting algorithms seem like a great place to get started writing about algorithms. They are easy enough to visualize, explain, and the code is engrained in my mind like the back of my own hand. This note is a work in progress, but will eventually contain all of the sorting algorithms known to man! Well, sort of&amp;hellip;&#xA;Bubble Sort First on the list is fun ol&amp;rsquo; bubble sort!</description>
-    </item>
-    <item>
-      <title>Computer Science</title>
-      <link>http://localhost:1313/note-catalog/computer-science/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/note-catalog/computer-science/</guid>
-      <description>This note contains a roadmap for my learning path of computer science with brief, but important notes for each topic. Links to other notes are included if they require a longform explanation or deep dive worth your time.&#xA;Computer Science Roadmap </description>
-    </item>
-    <item>
-      <title>Digital Garden Work Flow</title>
-      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
-      <description>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&#xA;Geaux Flow First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code).</description>
-    </item>
-    <item>
-      <title>Andrew&#39;s Digital Garden</title>
-      <link>http://localhost:1313/portfolio/andrews-digital-garden/</link>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/andrews-digital-garden/</guid>
-      <description>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to Varun for sharing this open source project.&#xA;I am using the Hugo Digital Garden Theme theme created by Varun A P, a very talented front-end engineer.</description>
-    </item>
-    <item>
-      <title>About WeisMind</title>
-      <link>http://localhost:1313/articles/about-weismind/</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/about-weismind/</guid>
-      <description>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&#xA;WeisMind Creative It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast.</description>
-    </item>
-    <item>
-      <title>SupaSnake.js</title>
-      <link>http://localhost:1313/portfolio/supasnake-js/</link>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/supasnake-js/</guid>
-      <description>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&#xA;Tech Stack Next.js Supabase Tailwind CSS Typescript Project Status (Maintaining) I am maintaining this project by making sure it continues to work.</description>
-    </item>
-    <item>
-      <title>Tar Heel Dev Studio</title>
-      <link>http://localhost:1313/portfolio/tar-heel-dev-studio/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/tar-heel-dev-studio/</guid>
-      <description>Tar Heel Dev Studio Website I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&#xA;Tech Stack Astro.js Static Site Generator Tailwind CSS Typescript Project Status This project is my main source of income so it is always a work in progress.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage on WeisGarden</title><link>https://weismind.com/</link><description>Recent content in Homepage on WeisGarden</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://weismind.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating My Dream Online Store</title><link>https://weismind.com/articles/creating-my-dream-online-store/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/creating-my-dream-online-store/</guid><description>&lt;p>The whole reason I got into programming in the first place was to build an ecommerce store on my own and not pay some freelancer on Fiverr. So why has it taken me so long to build this damn store? Read on to learn more.&lt;/p>
+&lt;h2 id="in-the-beginning-there-was-andrew-there-was-a-canadian">In the Beginning, There Was Andrew, There Was a Canadian&lt;/h2>
+&lt;p>Often times we set out on a journey, thinking we are wanting to achieve something, but end up doing something else entirely, especially if you are me. Let&amp;rsquo;s rewind the tape a bit, all the way back to April of 2021.&lt;/p></description></item><item><title>Software Design</title><link>https://weismind.com/note-catalog/software-design/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/software-design/</guid><description>&lt;h1 id="software-design">Software Design&lt;/h1>
+&lt;p>Software design is endlessly fascinating and my favorite thing I&amp;rsquo;m learning right now. Here are my notes, many coming from The Essence of Software: Why Concepts Matter for Great Design, by Daniel Jackson.&lt;/p>
+&lt;h2 id="concepts">Concepts&lt;/h2>
+&lt;ul>
+&lt;li>A concept is a self-contained unit of functionality.
+&lt;ul>
+&lt;li>A reservation, upvote, or how you organize files in a folder.&lt;/li>
+&lt;li>Well designed and familiar concepts are easy to use, as long as they are represented faithfully in the user interface and programmed correctly.&lt;/li>
+&lt;li>Complex or clunky concepts are difficult to use, no matter how great algorithms are.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>WeisGear Outdoor Adventure Co.</title><link>https://weismind.com/portfolio/weisgear-outdoor-adventure-co/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/weisgear-outdoor-adventure-co/</guid><description>&lt;p>My latest project is the reason I started learning programming in the first place - well, the first shot that started the war I guess you could say because I think I was always destined to get into programming due to my love of computers and tech. But it all got started when I was sick of not being able to build my own tools, especially my own ecommerce store. Over four years later, I&amp;rsquo;m finally here and ready to implement my long-desired Shopify store.&lt;/p></description></item><item><title>Support Andrew</title><link>https://weismind.com/support/support-andrew/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/support/support-andrew/</guid><description>&lt;p>Creating websites, content, and learning takes up an immense amount of time, but doing this kind of work makes me feel awesome and the challenge is a pretty good reward. However, being challenged and feeling awesome doesn&amp;rsquo;t pay a whole lot - it pays nothing in fact. Freelancing isn&amp;rsquo;t as lucrative as it once was since everyone is now a &amp;ldquo;vibe coder&amp;rdquo; and finding work as software developer is challenging at the moment.&lt;/p></description></item><item><title>Creator Platforms</title><link>https://weismind.com/support/creator-platforms/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/support/creator-platforms/</guid><description>&lt;p>You can contriute on these particular creator platforms - I try my best to keep them up to date with content and projects I&amp;rsquo;m working on so you can find my work there if it is not on my digital garden here.&lt;/p>
+&lt;h2 id="ko-fi---geauxweisbeck4">Ko-Fi - GeauxWeisbeck4&lt;/h2>
+&lt;p>You can find creations, posts, and more on Ko-Fi. Subscribe or make a one time donation.&lt;/p>
+&lt;p>&lt;a href='https://ko-fi.com/Z8Z2D853F' target='_blank'>&lt;img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />&lt;/a>&lt;/p>
+&lt;h2 id="buy-me-a-coffee---geauxweisbeck4">Buy Me A Coffee - GeauxWeisbeck4&lt;/h2>
+&lt;p>Basically the same thing as Ko-Fi, except it&amp;rsquo;s competitor.&lt;/p></description></item><item><title>Direct Donation</title><link>https://weismind.com/support/direct-donation/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/support/direct-donation/</guid><description>&lt;p>And the most simple and effective way to help is donating directly to Cash App and Venmo. I&amp;rsquo;m looking to add other ways to donate, but donating via these methods is the most helpful way to give. I say that because there is no fee that we get charged (platforms take like 5-10% sometimes) and it goes directly into our pocket so we can feed ourselves and save up for housing.&lt;/p></description></item><item><title>Publications</title><link>https://weismind.com/support/publications/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/support/publications/</guid><description>&lt;p>These are publications I create content on and they typically have ways you can sponsor me, subscribe to my content, or even sometimes just visiting and sharing these pages will help me earn money. If you can&amp;rsquo;t afford to help out with a subscription or donation, definitely sharing these with your network has a huge impact.&lt;/p>
+&lt;h2 id="substack---the-weismind-newsletter--geaux-code-newsletter">Substack - The WeisMind Newsletter &amp;amp; Geaux Code Newsletter&lt;/h2>
+&lt;p>These are both brand spanking new newsletters that are just about to drop.&lt;/p></description></item><item><title>Sorting Algorithms</title><link>https://weismind.com/note-catalog/sorting-algorithms/</link><pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/sorting-algorithms/</guid><description>&lt;p>Sorting algorithms seem like a great place to get started writing about algorithms. They are easy enough to visualize, explain, and the code is engrained in my mind like the back of my own hand. This note is a work in progress, but will eventually contain all of the sorting algorithms known to man! Well, sort of&amp;hellip;&lt;/p>
+&lt;h2 id="bubble-sort">Bubble Sort&lt;/h2>
+&lt;p>First on the list is fun ol&amp;rsquo; bubble sort!&lt;/p></description></item><item><title>Computer Science</title><link>https://weismind.com/note-catalog/computer-science/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/note-catalog/computer-science/</guid><description>&lt;p>This note contains a roadmap for my learning path of computer science with brief, but important notes for each topic. Links to other notes are included if they require a long form explanation or deep dive worth your time.&lt;/p>
+&lt;h2 id="computer-science-roadmap">Computer Science Roadmap&lt;/h2>
+&lt;p>Here is a tenative roadmap for learning computer science that I am following and is bound to change from time to time:&lt;/p></description></item><item><title>Digital Garden Work Flow</title><link>https://weismind.com/articles/digital-garden-work-flow/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/digital-garden-work-flow/</guid><description>&lt;p>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&lt;/p>
+&lt;h2 id="geaux-flow">Geaux Flow&lt;/h2>
+&lt;p>First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code). It also helps me to write about it as having a name makes it easier to refer to as my &amp;ldquo;work flow&amp;rdquo; is somewhat vague - that could refer to my coding work flow, writing work flow, whatever. Geaux Flow is my specific productivity work flow I use each day to track what I do, how I do it, and to help plan and coordinate my days.&lt;/p></description></item><item><title>Andrew's Digital Garden</title><link>https://weismind.com/portfolio/andrews-digital-garden/</link><pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/andrews-digital-garden/</guid><description>&lt;p>This is my special corner of the internet in which you will find ideas, stories, notes, bookmarks, and many other things that I think are useful. It took me a while to publish my public workspace on the web, but it is finally here after finding the perfect template to publish my site with - thank you to &lt;a href="https://github.com/apvarun" target="_blank" rel="noopener" >Varun&lt;/a> for sharing this open source project.&lt;/p>
+&lt;blockquote>
+&lt;p>I am using the &lt;a href="https://github.com/apvarun/digital-garden-hugo-theme/" target="_blank" rel="noopener" >Hugo Digital Garden Theme&lt;/a> theme created by &lt;a href="https://apvarun.com/" target="_blank" rel="noopener" >Varun A P&lt;/a>, a very talented front-end engineer. If you like this site and want to support him or find more of his work, check out his &lt;a href="https://buymeacoffee.com/apvarun" target="_blank" rel="noopener" >Buy My A Coffee Site here&lt;/a> where you can purchase his next cup of study juice, or whatever he uses your donations for.&lt;/p></description></item><item><title>About WeisMind</title><link>https://weismind.com/articles/about-weismind/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/about-weismind/</guid><description>&lt;p>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&lt;/p>
+&lt;h2 id="weismind-creative">WeisMind Creative&lt;/h2>
+&lt;p>It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast. We were really proud of our little show we had, but we were unable to keep up with it due to some unfortunate circumstances over the last couple years that have been difficult to overcome.&lt;/p></description></item><item><title>SupaSnake.js</title><link>https://weismind.com/portfolio/supasnake-js/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/supasnake-js/</guid><description>&lt;p>SupaSnake.js is a remake of the all-time classic &amp;ldquo;Snake&amp;rdquo; game, where the user controls a super hungry snake who is on a mission of a lifetime, trying to consume as manny &amp;ldquo;apples&amp;rdquo; as he possibly can. Little does he know that with each apple he happily devours, he is one apple closer to his death!&lt;/p>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;ul>
+&lt;li>Next.js&lt;/li>
+&lt;li>Supabase&lt;/li>
+&lt;li>Tailwind CSS&lt;/li>
+&lt;li>Typescript&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status-maintaining">Project Status (Maintaining)&lt;/h2>
+&lt;p>I am maintaining this project by making sure it continues to work. There are a few features I am working on adding:&lt;/p></description></item><item><title>Tar Heel Dev Studio</title><link>https://weismind.com/portfolio/tar-heel-dev-studio/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://weismind.com/portfolio/tar-heel-dev-studio/</guid><description>&lt;h1 id="tar-heel-dev-studio-website">&lt;a href="https://tarheeldevstudio.com" target="_blank" rel="noopener" >Tar Heel Dev Studio Website&lt;/a>&lt;/h1>
+&lt;p>I started Tar Hee Dev Studio back at the end of 2021 when I first started looking for developer jobs. What started out as a brand to help market my freelance services has become my primary source of income and my most valuable work experience as a developer.&lt;/p>
+&lt;h2 id="tech-stack">Tech Stack&lt;/h2>
+&lt;ul>
+&lt;li>Astro.js Static Site Generator&lt;/li>
+&lt;li>Tailwind CSS&lt;/li>
+&lt;li>Typescript&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status">Project Status&lt;/h2>
+&lt;p>This project is my main source of income so it is always a work in progress. Right now, I am trying to focus on finding full-time employment so I have slowed down on trying to find clients lately, but that could always change. I am always taking clients, so never hesitate to reach out to me if you are interested in hiring me.&lt;/p></description></item></channel></rss>

@@ -1,12 +1,12 @@
-baseURL = 'https://geauxweisbeck4.dev/'
+baseURL = 'https://weismind.com/'
 languageCode = 'en-us'
-title = 'GeauxWeisbeck4.dev'
+title = 'WeisGarden'
 theme = 'digitalgarden'
 
 googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
-  description = "Andrew Weisbeck's digital garden for sharing knowledge about software development, philosophy, and everything in between."
+  description = "The WeisMind Digital Garden for new posts, notes, and much more for readers of the publication to enjoy."
   images = ['/digital_office.png']
   enableSearch = true
 

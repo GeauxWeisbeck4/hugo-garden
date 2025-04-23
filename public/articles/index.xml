@@ -1,26 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Articles on GeauxWeisbeck4.dev</title>
-    <link>http://localhost:1313/articles/</link>
-    <description>Recent content in Articles on GeauxWeisbeck4.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digital Garden Work Flow</title>
-      <link>http://localhost:1313/articles/digital-garden-work-flow/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/digital-garden-work-flow/</guid>
-      <description>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&#xA;Geaux Flow First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code).</description>
-    </item>
-    <item>
-      <title>About WeisMind</title>
-      <link>http://localhost:1313/articles/about-weismind/</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/about-weismind/</guid>
-      <description>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&#xA;WeisMind Creative It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on WeisGarden</title><link>https://weismind.com/articles/</link><description>Recent content in Articles on WeisGarden</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://weismind.com/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating My Dream Online Store</title><link>https://weismind.com/articles/creating-my-dream-online-store/</link><pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/creating-my-dream-online-store/</guid><description>&lt;p>The whole reason I got into programming in the first place was to build an ecommerce store on my own and not pay some freelancer on Fiverr. So why has it taken me so long to build this damn store? Read on to learn more.&lt;/p>
+&lt;h2 id="in-the-beginning-there-was-andrew-there-was-a-canadian">In the Beginning, There Was Andrew, There Was a Canadian&lt;/h2>
+&lt;p>Often times we set out on a journey, thinking we are wanting to achieve something, but end up doing something else entirely, especially if you are me. Let&amp;rsquo;s rewind the tape a bit, all the way back to April of 2021.&lt;/p></description></item><item><title>Digital Garden Work Flow</title><link>https://weismind.com/articles/digital-garden-work-flow/</link><pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/digital-garden-work-flow/</guid><description>&lt;p>This digital garden is part of my daily work flow. This post talks about exactly what that work flow is, how that fits into this digital garden space, and how I plan to customize this garden to fit the work flow.&lt;/p>
+&lt;h2 id="geaux-flow">Geaux Flow&lt;/h2>
+&lt;p>First of all, the Geaux Flow is what I call my daily work flow. As silly as the name is, it helps me to have a name for technical purposes like tagging tasks in the tools I use (Obsidian, Logseq, VS Code). It also helps me to write about it as having a name makes it easier to refer to as my &amp;ldquo;work flow&amp;rdquo; is somewhat vague - that could refer to my coding work flow, writing work flow, whatever. Geaux Flow is my specific productivity work flow I use each day to track what I do, how I do it, and to help plan and coordinate my days.&lt;/p></description></item><item><title>About WeisMind</title><link>https://weismind.com/articles/about-weismind/</link><pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate><guid>https://weismind.com/articles/about-weismind/</guid><description>&lt;p>This article is sort of a placeholder for learning about WeisMind and the story behind creating this project. This information will be on the WeisMind website when it is finished, but for now you can check out my digital garden post for explaining the story behind WeisMind!&lt;/p>
+&lt;h2 id="weismind-creative">WeisMind Creative&lt;/h2>
+&lt;p>It has been a while since I last created anything for WeisMind. That would have been a few years ago when my girlfriend Lisa and I created an episode of the WeisMind podcast. We were really proud of our little show we had, but we were unable to keep up with it due to some unfortunate circumstances over the last couple years that have been difficult to overcome.&lt;/p></description></item></channel></rss>
