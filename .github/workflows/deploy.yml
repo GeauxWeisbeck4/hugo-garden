@@ -39,6 +39,6 @@ jobs:
         with:
           project: "weisgarden"
           entrypoint: "./"
-          root: ""
+          root: "./"
           
           
